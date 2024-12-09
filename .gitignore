@@ -1,0 +1,12 @@
+#all jupyter notebooks
+*.ipynb
+
+#all types of data
+/data
+*.gz
+
+#log files
+*.log
+
+#all pt models
+*.pth
