@@ -4,9 +4,13 @@
 #all types of data
 /data
 *.gz
+/dataset
 
 #log files
 *.log
 
 #all pt models
 *.pth
+
+#all zips
+*.zip
