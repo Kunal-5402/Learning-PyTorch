@@ -14,3 +14,7 @@
 
 #all zips
 *.zip
+
+#excluding poetry for now
+*.lock
+*.toml
